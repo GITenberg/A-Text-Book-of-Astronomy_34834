@@ -1,0 +1,28 @@
+_repo: A-Text-Book-of-Astronomy_34834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comstock, George C. (George Cary)
+    alias: Comstock, George Cary
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '37266'
+    url: http://www.gutenberg.org/2009/agents/37266
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+title: A Text-Book of Astronomy
+url: http://www.gutenberg.org/ebooks/34834
