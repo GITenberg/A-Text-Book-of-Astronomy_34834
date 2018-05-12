@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37266'
     url: http://www.gutenberg.org/2009/agents/37266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34834#A-Text-Book-of-Astronomy
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
